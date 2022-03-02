@@ -3332,22 +3332,22 @@ namespace NavBarEx
 			public const int icon_selector = 2131165298;
 			
 			// aapt resource value: 0x7F07006C
-			public const int ic_mtrl_chip_checked_black = 2131165292;
+			public const int ic_fav = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int ic_mtrl_chip_checked_circle = 2131165293;
+			public const int ic_homenew = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int ic_mtrl_chip_close_circle = 2131165294;
+			public const int ic_mtrl_chip_checked_black = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int ic_newfav = 2131165295;
+			public const int ic_mtrl_chip_checked_circle = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int ic_newhome = 2131165296;
+			public const int ic_mtrl_chip_close_circle = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int ic_newnotifi = 2131165297;
+			public const int ic_notification = 2131165297;
 			
 			// aapt resource value: 0x7F070073
 			public const int mtrl_snackbar_background = 2131165299;
